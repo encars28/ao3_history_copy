@@ -2,6 +2,8 @@
 
 I made this esentially because I'm stupid. I'm stupid enough to have accidentally deleted my history on two different ocassions (hitting the clear history button) and when the third time eventually comes I want to be prepared. It is likely that I won't recover everything but at least I won't spend the whole day searching through my browser's history in hopes of getting a quarter of my marked for later page back.
 
+![logo](/mnt/c/Users/Encarna/Downloads/ao3_logo-removebg-preview.png)
+
 ## How does it work?
 
 This program lets you make a security copy of your <a href="https://archiveofourown.org">archive of our own</a> history and your marked for later page. It creates two documents, history.txt and marked_for_later.txt. Each of them contains all the urls of the works in your history and your marked for later page. 
