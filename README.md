@@ -4,7 +4,7 @@ I made this esentially because I'm stupid. I'm stupid enough to have accidentall
 
 ## How does it work?
 
-This program lets you make a security copy of your ao3 history and your marked for later page. It creates two documents, history.txt and marked_for_later.txt. Each of them contains all the urls of the works in your history and your marked for later page. 
+This program lets you make a security copy of your <a href="https://archiveofourown.org">archive of our own</a> history and your marked for later page. It creates two documents, history.txt and marked_for_later.txt. Each of them contains all the urls of the works in your history and your marked for later page. 
 
 #### Download folder
 
