@@ -17,7 +17,8 @@ Check that you have all the modules that are imported installed
 
 ```bash
 wget https://github.com/encars28/ao3_history_copy/archive/main.zip
-cd ao3_history_copy/src
+unzip main.zip
+cd main/ao3_history_copy-main/src
 python main.py
 ```
 
