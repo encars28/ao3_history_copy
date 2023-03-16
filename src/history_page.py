@@ -52,7 +52,4 @@ class HistoryPage:
 
                 history.append(MAIN_SITE + work.h4.a['href'])
 
-            # I let this sleep so the page doesnt get overloaded
-            sleep(5)
-
         return history
